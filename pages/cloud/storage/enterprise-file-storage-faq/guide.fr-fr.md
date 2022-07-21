@@ -90,6 +90,11 @@ Enteprise File Storage est fourni avec un débit garanti de 64Mo/s par TiB et de
 
 Par exemple, lors de la livraison d'un pool de 10 TiB, vous bénéficiez d'une bande passante de 640Mo/s et de 40000 IOPS.
 
+### Quel est le paramétrage du rsize et wsize ?
+Le parametrage est à 65536. En cas de besoin de plus gros block. Ces valeurs doivent être ça doit être symètrique entre le client et le serveur, il y a une négociation au plus faible. Il est possible d'envisager d'augmenter la taille en cas de besoin, contacter votre support client.
+ 
+
+
 ## Snapshots et sauvegardes
 
 ### Comment peut-on restaurer les fichiers d'une précédente version ?

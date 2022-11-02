@@ -10,7 +10,7 @@ order: 025
 
 ## Objective
 
-This page provides an overview of the technical limitations of the S3 Object Storage offer.
+This page provides an overview of the technical limitations of the S3 Object Storage offers (Standard object storage - S3 API and High Performance object storage - S3 API).
 
 ### Maximum number of containers in storage
 

@@ -10,7 +10,7 @@ order: 025
 
 ## Objectif
 
-Retrouvez ici les limites techniques relatives à l'offre S3 Object Storage.
+Retrouvez ici les limites techniques relatives aux offres de la famille Object Storage (Standard object storage - S3 API et High Performance object storage - S3 API).
 
 ### Nombre maximum de conteneurs dans un stockage
 
